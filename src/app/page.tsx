@@ -23,7 +23,7 @@ async function Content({ searchParams }: { searchParams: SearchParams }) {
       onLoad={() => window.parent.scrollTo(0, 0)}
       allowTransparency={true}
       allow="geolocation; microphone; camera; fullscreen"
-      src={`https://form.jotform.com/230716270317046?email=${data.client?.email}`}
+      src={`https://form.jotform.com/241624397653059?email=${data.client?.email}`}
       frameBorder="0"
       className="w-full h-full border-none"
       style={{
