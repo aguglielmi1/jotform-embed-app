@@ -29,7 +29,7 @@ async function Content({ searchParams }: { searchParams: SearchParams }) {
       style={{
         minWidth: '100%',
         maxWidth: '100%',
-        height: '1539px',
+        height: '700px',
         border: 'none'
       }}
       scrolling="no"
